@@ -218,15 +218,15 @@ ___
 * 입력 값의 크기가 그렇게 크지 않고, 작은 크기의 데이터는 기기의 성능에 따라 알고리즘의 성능과 상관없이 연산 속도가 다르게 나타나는 경우가 많기 때문에, 데이터 비교 횟수와 연산 횟수를 이용하며 비교 그래프를 구성
 
 #### 버블  
-[!bubble]<https://postfiles.pstatic.net/MjAyMjA1MDRfMTIy/MDAxNjUxNjc0ODIyOTA2.G6WFuNpGW-6pulETAiac3vxz1xOk4m06uMATGGB-k30g.znG5EC4KUjgJxvqdE5bHxC7n4aN2sk5l8dmP57mMHkEg.PNG.jinha081131/%EB%B2%84%EB%B8%94.PNG?type=w966>
+![bubble](https://postfiles.pstatic.net/MjAyMjA1MDRfMTIy/MDAxNjUxNjc0ODIyOTA2.G6WFuNpGW-6pulETAiac3vxz1xOk4m06uMATGGB-k30g.znG5EC4KUjgJxvqdE5bHxC7n4aN2sk5l8dmP57mMHkEg.PNG.jinha081131/%EB%B2%84%EB%B8%94.PNG?type=w966)
 #### 선택  
-
+![selection](https://postfiles.pstatic.net/MjAyMjA1MDRfMTU4/MDAxNjUxNjc0ODI1NDgz.B0FMZQBQWaekHxMy_6itSM951r50zKGcxx-L7cw2XYEg.6171Aa4_zexj6PCORgY13X9Xhvw_sddPHn-KOAIP0lUg.PNG.jinha081131/%EC%82%BD%EC%9E%85.PNG?type=w966)
 #### 삽입  
-
+![insertion](https://postfiles.pstatic.net/MjAyMjA1MDRfMjcx/MDAxNjUxNjc0ODMwMjQx.NzTML2XYlASZJyOuzX3RkSZS4Kv3tAhfW_KuC4kaWv8g.ugTLNS5LZI__fdThlu53BQv3dEAzQ9fmgH3-Mz9xyXYg.PNG.jinha081131/%EC%89%98.PNG?type=w966)
 #### 쉘  
-
+![shell](https://postfiles.pstatic.net/MjAyMjA1MDRfMjcx/MDAxNjUxNjc0ODMwMjQx.NzTML2XYlASZJyOuzX3RkSZS4Kv3tAhfW_KuC4kaWv8g.ugTLNS5LZI__fdThlu53BQv3dEAzQ9fmgH3-Mz9xyXYg.PNG.jinha081131/%EC%89%98.PNG?type=w966)
 #### 힙  
-
+![heap](https://postfiles.pstatic.net/MjAyMjA1MDRfMjY1/MDAxNjUxNjc0ODM0NDg4.KIAvCko-LPOdQCqEL1Rq9VT6tWArAiMA9BzG41k93Pwg.5P0qBDeD45kTGWFVxVAa0QE9DS8RvNU5Gt7wTzPz1i0g.PNG.jinha081131/%ED%9E%99.PNG?type=w966)
 #### 퀵  
-
+![quick](https://postfiles.pstatic.net/MjAyMjA1MDRfMjAw/MDAxNjUxNjc0ODM2NTg3.8nlSDlRxTt6BfNNYMgbPxJ3pu4jpXTWrhcxPppvlviIg.Mu4jTlQzhwokO4hxq5QDHEVvf_qB8pKidh7EuGPIMGsg.PNG.jinha081131/%ED%80%B5.PNG?type=w966)
 ___
