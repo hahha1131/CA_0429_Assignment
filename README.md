@@ -220,9 +220,9 @@ ___
 #### 버블  
 ![bubble](https://postfiles.pstatic.net/MjAyMjA1MDRfMTIy/MDAxNjUxNjc0ODIyOTA2.G6WFuNpGW-6pulETAiac3vxz1xOk4m06uMATGGB-k30g.znG5EC4KUjgJxvqdE5bHxC7n4aN2sk5l8dmP57mMHkEg.PNG.jinha081131/%EB%B2%84%EB%B8%94.PNG?type=w966)
 #### 선택  
-![selection](https://postfiles.pstatic.net/MjAyMjA1MDRfMTU4/MDAxNjUxNjc0ODI1NDgz.B0FMZQBQWaekHxMy_6itSM951r50zKGcxx-L7cw2XYEg.6171Aa4_zexj6PCORgY13X9Xhvw_sddPHn-KOAIP0lUg.PNG.jinha081131/%EC%82%BD%EC%9E%85.PNG?type=w966)
+![selection](https://postfiles.pstatic.net/MjAyMjA1MDRfNjEg/MDAxNjUxNjc0ODI4MDA3.dJJZCnAxjtB8N44qP3jwEYkdgbti1w5O1xq7x82otJcg.2kC_09EMsGQQ0FyKj9knGQjYxlM_12AiUCOyX_G6KY4g.PNG.jinha081131/%EC%84%A0%ED%83%9D.PNG?type=w966)
 #### 삽입  
-![insertion](https://postfiles.pstatic.net/MjAyMjA1MDRfMjcx/MDAxNjUxNjc0ODMwMjQx.NzTML2XYlASZJyOuzX3RkSZS4Kv3tAhfW_KuC4kaWv8g.ugTLNS5LZI__fdThlu53BQv3dEAzQ9fmgH3-Mz9xyXYg.PNG.jinha081131/%EC%89%98.PNG?type=w966)
+![insertion](https://postfiles.pstatic.net/MjAyMjA1MDRfMTU4/MDAxNjUxNjc0ODI1NDgz.B0FMZQBQWaekHxMy_6itSM951r50zKGcxx-L7cw2XYEg.6171Aa4_zexj6PCORgY13X9Xhvw_sddPHn-KOAIP0lUg.PNG.jinha081131/%EC%82%BD%EC%9E%85.PNG?type=w966)
 #### 쉘  
 ![shell](https://postfiles.pstatic.net/MjAyMjA1MDRfMjcx/MDAxNjUxNjc0ODMwMjQx.NzTML2XYlASZJyOuzX3RkSZS4Kv3tAhfW_KuC4kaWv8g.ugTLNS5LZI__fdThlu53BQv3dEAzQ9fmgH3-Mz9xyXYg.PNG.jinha081131/%EC%89%98.PNG?type=w966)
 #### 힙  
