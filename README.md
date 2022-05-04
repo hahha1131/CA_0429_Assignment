@@ -218,7 +218,7 @@ ___
 * 입력 값의 크기가 그렇게 크지 않고, 작은 크기의 데이터는 기기의 성능에 따라 알고리즘의 성능과 상관없이 연산 속도가 다르게 나타나는 경우가 많기 때문에, 데이터 비교 횟수와 연산 횟수를 이용하며 비교 그래프를 구성
 
 #### 버블  
-<https://postfiles.pstatic.net/MjAyMjA1MDRfMTIy/MDAxNjUxNjc0ODIyOTA2.G6WFuNpGW-6pulETAiac3vxz1xOk4m06uMATGGB-k30g.znG5EC4KUjgJxvqdE5bHxC7n4aN2sk5l8dmP57mMHkEg.PNG.jinha081131/%EB%B2%84%EB%B8%94.PNG?type=w966>
+[!bubble]<https://postfiles.pstatic.net/MjAyMjA1MDRfMTIy/MDAxNjUxNjc0ODIyOTA2.G6WFuNpGW-6pulETAiac3vxz1xOk4m06uMATGGB-k30g.znG5EC4KUjgJxvqdE5bHxC7n4aN2sk5l8dmP57mMHkEg.PNG.jinha081131/%EB%B2%84%EB%B8%94.PNG?type=w966>
 #### 선택  
 
 #### 삽입  
